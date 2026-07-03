@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: SIAP KONI",
+  "description": "Sistem Informasi Administrasi Persuratan, Proposal, LPJ, Agenda, Disposisi, dan LPJ Terintegrasi KONI Jepara",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

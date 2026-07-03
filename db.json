@@ -1,0 +1,387 @@
+{
+  "users": [
+    {
+      "id": "u-1",
+      "username": "admin",
+      "name": "Super Admin SIAP",
+      "role": "Super Admin",
+      "email": "admin@konijepara.or.id",
+      "phone": "081234567890"
+    },
+    {
+      "id": "u-2",
+      "username": "ketua",
+      "name": "H. Samsul Anwar, S.E.",
+      "role": "Ketua KONI",
+      "email": "ketua@konijepara.or.id",
+      "phone": "085290001234"
+    },
+    {
+      "id": "u-3",
+      "username": "sekretaris",
+      "name": "Zainal Abidin, S.Pd.",
+      "role": "Sekretaris",
+      "email": "sekretariat@konijepara.or.id",
+      "phone": "089876543210"
+    },
+    {
+      "id": "u-4",
+      "username": "bendahara",
+      "name": "Hj. Siti Mutiah, M.Ak.",
+      "role": "Bendahara",
+      "email": "bendahara@konijepara.or.id",
+      "phone": "081122334455"
+    },
+    {
+      "id": "u-5",
+      "username": "bidang",
+      "name": "Drs. Bambang Heru (Kabid Binpres)",
+      "role": "Bidang",
+      "email": "binpres@konijepara.or.id",
+      "phone": "082233445566"
+    },
+    {
+      "id": "u-6",
+      "username": "operator",
+      "name": "Andika Wijaya",
+      "role": "Operator",
+      "email": "andika@konijepara.or.id",
+      "phone": "085744332211"
+    },
+    {
+      "id": "u-7",
+      "username": "cabor",
+      "name": "H. Nurhadi (PSSI Jepara)",
+      "role": "Pengurus Cabang Olahraga (Cabor)",
+      "caborName": "PSSI (Sepak Bola)",
+      "email": "pssi_jepara@gmail.com",
+      "phone": "081399887766"
+    },
+    {
+      "id": "u-8",
+      "username": "cabor_pasi",
+      "name": "Budi Santoso (PASI Jepara)",
+      "role": "Pengurus Cabang Olahraga (Cabor)",
+      "caborName": "PASI (Atletik)",
+      "email": "pasi_jepara@gmail.com",
+      "phone": "085711223344"
+    }
+  ],
+  "suratMasuk": [
+    {
+      "id": "sm-1",
+      "nomorAgenda": "SM-2026-0001",
+      "nomorSurat": "012/PSSI-JPR/VI/2026",
+      "tanggalSurat": "2026-06-20",
+      "tanggalDiterima": "2026-06-22",
+      "instansi": "PSSI Jepara",
+      "pengirim": "H. Nurhadi",
+      "nomorWhatsApp": "081399887766",
+      "email": "pssi_jepara@gmail.com",
+      "perihal": "Proposal Permohonan Dana Pembinaan Turnamen U-19 Bupati Cup 2026",
+      "jenisSurat": "Proposal",
+      "lampiranPdf": "Proposal_Bupati_Cup_U19.pdf",
+      "ocrContent": "PROPOSAL KEGIATAN TURNAMEN U-19 BUPATI CUP JEPARA 2026\nPERSATUAN SEPAKBOLA SELURUH INDONESIA (PSSI) CABANG JEPARA\nNomor: 012/PSSI-JPR/VI/2026\nPerihal: Permohonan Bantuan Dana Kegiatan Turnamen Sepakbola U-19 Bupati Cup\nNominal yang Diajukan: Rp 45.000.000,- (Empat Puluh Lima Juta Rupiah)\nTanggal Pelaksanaan: 15-20 Juli 2026\nTempat: Stadion Gelora Bumi Kartini Jepara",
+      "ringkasanAI": [
+        "Permohonan dana pembinaan sebesar Rp 45.000.000,- untuk Turnamen Sepakbola U-19 Bupati Cup 2026.",
+        "Kegiatan diselenggarakan oleh PSSI Cabang Jepara.",
+        "Pelaksanaan acara dijadwalkan pada tanggal 15 hingga 20 Juli 2026.",
+        "Lokasi turnamen berada di Stadion Gelora Bumi Kartini Jepara.",
+        "Dokumen menyertakan susunan panitia dan rincian anggaran biaya (RAB)."
+      ],
+      "disposisiRekomendasi": "Ketua -> Sekretaris -> Bendahara untuk verifikasi anggaran",
+      "disposisi": [
+        {
+          "target": "Ketua",
+          "catatan": "Segera telaah urgensi kegiatan dan kesiapan anggaran pembinaan cabor."
+        },
+        {
+          "target": "Sekretaris",
+          "catatan": "Siapkan verifikasi berkas administrasi proposal."
+        }
+      ],
+      "status": "Didisposisikan",
+      "statusHistory": [
+        {
+          "tanggal": "2026-06-22T09:30:00.000Z",
+          "statusLama": "",
+          "statusBaru": "Baru",
+          "pengguna": "Andika Wijaya",
+          "catatan": "Surat masuk diregistrasi oleh operator sekretariat."
+        },
+        {
+          "tanggal": "2026-06-23T11:15:00.000Z",
+          "statusLama": "Baru",
+          "statusBaru": "Didisposisikan",
+          "pengguna": "H. Samsul Anwar, S.E.",
+          "catatan": "Didisposisikan ke Sekretaris dan Bidang Binpres untuk ditindaklanjuti."
+        }
+      ],
+      "qrCode": "QR-SM-2026-0001"
+    },
+    {
+      "id": "sm-2",
+      "nomorAgenda": "SM-2026-0002",
+      "nomorSurat": "055/DISPARBUD/VI/2026",
+      "tanggalSurat": "2026-06-24",
+      "tanggalDiterima": "2026-06-25",
+      "instansi": "Dinas Pariwisata dan Kebudayaan Jepara",
+      "pengirim": "Kepala Dinas Disparbud",
+      "nomorWhatsApp": "081255556666",
+      "email": "disparbud@jepara.go.id",
+      "perihal": "Undangan Rapat Koordinasi Persiapan Hari Jadi Jepara dan Parade Olahraga Tradisional",
+      "jenisSurat": "Undangan",
+      "lampiranPdf": "Undangan_Rakor_Hari_Jadi.pdf",
+      "ocrContent": "PEMERINTAH KABUPATEN JEPARA\nDINAS PARIWISATA DAN KEBUDAYAAN\nNomor: 055/DISPARBUD/VI/2026\nSifat: Penting\nPerihal: Undangan Rapat Koordinasi Parade Olahraga Tradisional\nHari/Tanggal: Selasa, 07 Juli 2026\nWaktu: Jam 09.00 WIB s/d Selesai\nTempat: Ruang Rapat Kartini Disparbud Jepara",
+      "ringkasanAI": [
+        "Undangan Rapat Koordinasi Parade Olahraga Tradisional Kabupaten Jepara.",
+        "Diselenggarakan oleh Dinas Pariwisata dan Kebudayaan Jepara.",
+        "Acara dijadwalkan pada hari Selasa, 07 Juli 2026 pukul 09.00 WIB.",
+        "Lokasi di Ruang Rapat Kartini Disparbud Jepara.",
+        "KONI diminta menugaskan perwakilan pengurus bidang olahraga tradisional."
+      ],
+      "disposisiRekomendasi": "Sekretaris -> Bidang Organisasi / Umum untuk hadir mewakili",
+      "disposisi": [
+        {
+          "target": "Sekretaris",
+          "catatan": "Tugaskan Kabid Binpres atau Kabid Organisasi untuk menghadiri rapat ini."
+        }
+      ],
+      "status": "Didisposisikan",
+      "statusHistory": [
+        {
+          "tanggal": "2026-06-25T10:00:00.000Z",
+          "statusLama": "",
+          "statusBaru": "Baru",
+          "pengguna": "Andika Wijaya",
+          "catatan": "Surat undangan diterima dan diarsip digital."
+        },
+        {
+          "tanggal": "2026-06-26T08:30:00.000Z",
+          "statusLama": "Baru",
+          "statusBaru": "Didisposisikan",
+          "pengguna": "H. Samsul Anwar, S.E.",
+          "catatan": "Sekretaris harap menugaskan perwakilan pengurus."
+        }
+      ],
+      "qrCode": "QR-SM-2026-0002"
+    }
+  ],
+  "proposals": [
+    {
+      "id": "prop-1",
+      "suratMasukId": "sm-1",
+      "nomorAgenda": "SM-2026-0001",
+      "namaCabor": "PSSI (Sepak Bola)",
+      "jenisBantuan": "Dana Pembinaan Turnamen U-19",
+      "nominal": 45000000,
+      "tanggal": "2026-06-22",
+      "deadlineLPJ": "2026-08-20",
+      "status": "Dana Cair",
+      "statusHistory": [
+        {
+          "tanggal": "2026-06-22T09:30:00.000Z",
+          "statusLama": "",
+          "statusBaru": "Baru Masuk",
+          "pengguna": "Andika Wijaya",
+          "catatan": "Otomatis dibuat dari surat masuk proposal."
+        },
+        {
+          "tanggal": "2026-06-23T11:30:00.000Z",
+          "statusLama": "Baru Masuk",
+          "statusBaru": "Menunggu Verifikasi",
+          "pengguna": "Zainal Abidin, S.Pd.",
+          "catatan": "Berkas lengkap, dilanjutkan ke Ketua untuk persetujuan prinsip."
+        },
+        {
+          "tanggal": "2026-06-24T14:20:00.000Z",
+          "statusLama": "Menunggu Verifikasi",
+          "statusBaru": "Disetujui",
+          "pengguna": "H. Samsul Anwar, S.E.",
+          "catatan": "Disetujui penuh Rp 45.000.000,- demi prestasi sepakbola usia dini Jepara."
+        },
+        {
+          "tanggal": "2026-06-25T10:15:00.000Z",
+          "statusLama": "Disetujui",
+          "statusBaru": "Dana Diproses",
+          "pengguna": "Hj. Siti Mutiah, M.Ak.",
+          "catatan": "Berkas pencairan disiapkan dan diajukan ke bank rekanan."
+        },
+        {
+          "tanggal": "2026-06-28T09:00:00.000Z",
+          "statusLama": "Dana Diproses",
+          "statusBaru": "Dana Cair",
+          "pengguna": "Hj. Siti Mutiah, M.Ak.",
+          "catatan": "Dana telah ditransfer ke rekening PSSI Jepara. Status otomatis diatur menjadi Menunggu LPJ dengan deadline 20 Agustus 2026."
+        }
+      ],
+      "qrCode": "QR-PROP-2026-0001"
+    }
+  ],
+  "lpj": [
+    {
+      "id": "lpj-1",
+      "nomorAgenda": "LPJ-2026-0001",
+      "nomorLPJ": "LPJ/PSSI-JPR/05/2026",
+      "namaCabor": "PSSI (Sepak Bola)",
+      "tahapDana": "Pembinaan Rutin Tahap 1",
+      "nominal": 25000000,
+      "uploadPdf": "LPJ_Pembinaan_PSSI_Tahap1.pdf",
+      "uploadFoto": "Foto_Kegiatan_PSSI.jpg",
+      "catatan": "Laporan pengeluaran akomodasi atlet, konsumsi, dan sewa lapangan latihan.",
+      "status": "Sedang Diverifikasi",
+      "statusHistory": [
+        {
+          "tanggal": "2026-06-15T08:00:00.000Z",
+          "statusLama": "",
+          "statusBaru": "Baru Masuk",
+          "pengguna": "H. Nurhadi",
+          "catatan": "LPJ diunggah oleh perwakilan PSSI Cabang Olahraga."
+        },
+        {
+          "tanggal": "2026-06-16T10:30:00.000Z",
+          "statusLama": "Baru Masuk",
+          "statusBaru": "Diterima",
+          "pengguna": "Andika Wijaya",
+          "catatan": "LPJ diterima secara fisik dan digital oleh sekretariat."
+        },
+        {
+          "tanggal": "2026-06-18T14:00:00.000Z",
+          "statusLama": "Diterima",
+          "statusBaru": "Sedang Diverifikasi",
+          "pengguna": "Hj. Siti Mutiah, M.Ak.",
+          "catatan": "Pemeriksaan kuitansi dan kesesuaian nominal rincian pengeluaran."
+        }
+      ],
+      "qrCode": "QR-LPJ-2026-0001"
+    }
+  ],
+  "agenda": [
+    {
+      "id": "ag-1",
+      "suratMasukId": "sm-2",
+      "namaAcara": "Rapat Koordinasi Parade Olahraga Tradisional Hari Jadi Jepara",
+      "penyelenggara": "Dinas Pariwisata dan Kebudayaan Jepara",
+      "tempat": "Ruang Rapat Kartini Disparbud Jepara",
+      "tanggal": "2026-07-07",
+      "jam": "09:00",
+      "pengingatKirimStatus": {
+        "HMin7": true,
+        "HMin3": false,
+        "HMin1": false,
+        "HariH": false,
+        "SatuJam": false
+      }
+    },
+    {
+      "id": "ag-2",
+      "namaAcara": "Turnamen Sepakbola U-19 Bupati Cup Jepara 2026",
+      "penyelenggara": "PSSI Jepara & KONI",
+      "tempat": "Stadion Gelora Bumi Kartini Jepara",
+      "tanggal": "2026-07-15",
+      "jam": "15:30",
+      "pengingatKirimStatus": {}
+    }
+  ],
+  "suratKeluar": [
+    {
+      "id": "sk-1",
+      "nomorSurat": "044/KONI-JPR/VI/2026",
+      "tujuan": "Seluruh Pengurus Cabang Olahraga KONI Jepara",
+      "perihal": "Pemberitahuan Kewajiban Penyusunan LPJ Tepat Waktu dan Format Standar Administrasi",
+      "tanggal": "2026-06-25",
+      "lampiran": "Format_LPJ_Standard_2026.pdf",
+      "penandatangan": "Sekretaris",
+      "status": "Ditandatangani",
+      "statusHistory": [
+        {
+          "tanggal": "2026-06-24T09:00:00.000Z",
+          "statusLama": "",
+          "statusBaru": "Konsep",
+          "pengguna": "Andika Wijaya",
+          "catatan": "Draf surat pemberitahuan dibuat oleh operator sekretariat."
+        },
+        {
+          "tanggal": "2026-06-25T11:00:00.000Z",
+          "statusLama": "Konsep",
+          "statusBaru": "Disetujui",
+          "pengguna": "Zainal Abidin, S.Pd.",
+          "catatan": "Isi edaran disetujui, siap untuk ditandatangani secara elektronik."
+        },
+        {
+          "tanggal": "2026-06-25T13:30:00.000Z",
+          "statusLama": "Disetujui",
+          "statusBaru": "Ditandatangani",
+          "pengguna": "Zainal Abidin, S.Pd.",
+          "catatan": "Ditandatangani secara digital oleh Sekretaris KONI Jepara."
+        }
+      ],
+      "qrCode": "QR-SK-044-KONI-JPR-2026",
+      "tandaTanganDigital": {
+        "signedBy": "Zainal Abidin, S.Pd. (Sekretaris)",
+        "signedAt": "2026-06-25T13:30:00.000Z",
+        "signatureData": "SHA256:7bf5c338e8da8f6f58f50cc3cf321f582b1be7e2a9b3fa47d15fc321aee19e99"
+      }
+    }
+  ],
+  "whatsappLogs": [
+    {
+      "id": "wa-1",
+      "tanggal": "2026-06-22T09:31:00.000Z",
+      "penerima": "081399887766",
+      "perihal": "Pemberitahuan Penerimaan Surat Masuk PSSI Jepara",
+      "pesan": "Yth. Bapak/Ibu PSSI Jepara,\n\nSurat telah kami terima.\n\nNomor Agenda:\nSM-2026-0001\n\nPerihal:\nProposal Permohonan Dana Pembinaan Turnamen U-19 Bupati Cup 2026\n\nTanggal:\n2026-06-22\n\nStatus:\nSudah diterima.\n\nTerima kasih.\n\nSekretariat KONI Jepara.",
+      "status": "Berhasil"
+    },
+    {
+      "id": "wa-2",
+      "tanggal": "2026-06-28T09:05:00.000Z",
+      "penerima": "081399887766",
+      "perihal": "Notifikasi Perubahan Status Proposal - Dana Cair",
+      "pesan": "Yth. Bapak/Ibu PSSI Jepara,\n\nStatus proposal Anda 'Proposal Permohonan Dana Pembinaan Turnamen U-19 Bupati Cup 2026' telah berubah.\n\nStatus Baru:\nDana Cair\n\nCatatan:\nDana telah ditransfer ke rekening PSSI Jepara. Status otomatis diatur menjadi Menunggu LPJ dengan deadline 20 Agustus 2026.\n\nMohon siapkan berkas laporan pertanggungjawaban sebelum tenggat waktu.\n\nTerima kasih.\n\nKONI Jepara.",
+      "status": "Berhasil"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1",
+      "tanggal": "2026-06-22T09:30:00.000Z",
+      "username": "operator",
+      "role": "Operator",
+      "action": "Tambah",
+      "details": "Menambahkan Surat Masuk baru dengan Nomor Agenda: SM-2026-0001 dari PSSI Jepara."
+    },
+    {
+      "id": "log-2",
+      "tanggal": "2026-06-22T09:31:00.000Z",
+      "username": "operator",
+      "role": "Operator",
+      "action": "Kirim WA",
+      "details": "Mengirim WhatsApp otomatis tanda terima surat ke nomor 081399887766."
+    },
+    {
+      "id": "log-3",
+      "tanggal": "2026-06-23T11:15:00.000Z",
+      "username": "ketua",
+      "role": "Ketua KONI",
+      "action": "Disposisi",
+      "details": "Melakukan disposisi surat agenda SM-2026-0001 ke Sekretaris dan Bidang Binpres."
+    },
+    {
+      "id": "log-4",
+      "tanggal": "2026-06-28T09:00:00.000Z",
+      "username": "bendahara",
+      "role": "Bendahara",
+      "action": "Verifikasi",
+      "details": "Mengubah status proposal 'Dana Pembinaan Turnamen U-19' menjadi 'Dana Cair'."
+    }
+  ],
+  "backups": [
+    {
+      "id": "b-1",
+      "filename": "backup_siapkoni_20260629.json",
+      "tanggal": "2026-06-29T23:00:00.000Z",
+      "ukuran": "24.5 KB"
+    }
+  ]
+}
